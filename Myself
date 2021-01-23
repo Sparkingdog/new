@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lamborghini</title>
+<style>
+#aboutme{color:cyan}
+</style>
+</head>
+ 
+<body>
+<h1>自我介绍</h1> <!--hihihihi-->
+
+<p class="important">姓名: 林鍵鋒</p>
+<p class="important">學號: 109062362</p>
+<p>系所: 24級資工系</p>
+<p>興趣</p>
+<ol>
+  <li>運動</li>
+  <li>打遊戲</li>
+  <li>下棋</li>
+</ol>
+
+<p id="aboutme">關於我</p>
+<p>清大大一資工系普普通通的學生，想要發家致富，早日脫魯，踏上人生巔峰
+</p>
+ 
+</body>
+</html>
